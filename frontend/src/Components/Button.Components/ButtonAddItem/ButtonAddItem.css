@@ -1,0 +1,43 @@
+.add-item-button{
+  display:flex;
+  justify-content: center;
+}
+.Pantry-add{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  border-radius: 20px;
+  height: 80px;
+  width: 80px;
+  margin-bottom: 0px;
+  margin-top: 5px;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.Shopping-add, .Recipe-add, .meal-plan-add{
+  justify-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  border-radius: 20px;
+  margin-top: 5px;
+  width: 100px;
+}
+
+/* .Recipe-add{
+  justify-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  border-radius: 20px;
+  margin-top: 5px;
+  width: 60px;
+}
+
+.meal-plan-add{
+
+} */
